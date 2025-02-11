@@ -1,4 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1715817600&v=beta&t=D5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4)
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
+</a>
 <h1 align="center">Hi 👋, I'm Bipadtaran Paul</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
